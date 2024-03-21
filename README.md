@@ -1,8 +1,8 @@
 👋 Hello World, I’m Sergio Garcia.
 - I have been working as CNC programmer (G-Code, IGF) on lathe
-  and milling machines for 7 years, now I'm trying to recycle
+  and milling machines for 7 years, now I'm trying to retrain
   and improve myself. I’m currently working with Python and
-  learning about API's .
+  learning front and backend.
 
 Formation:
   - Middle formation of machining and CNC (2 years)
